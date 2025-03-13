@@ -1,6 +1,4 @@
 # test-repo
-A repo for testing.
+A repo for playing around.
 
 A not so cool change to the README file.
-
-With a third line as well.
